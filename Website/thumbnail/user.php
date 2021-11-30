@@ -1,0 +1,1 @@
+<?php header("Location: https://projvap.cf/thumbnail/error");
